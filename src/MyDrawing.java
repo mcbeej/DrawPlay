@@ -3,6 +3,12 @@ import java.awt.Graphics;
 import javax.swing.JFrame;
 import javax.swing.JPanel;
 
+/**
+ * 
+ * @editor Jacob McBee
+ * @editor Calvin Mak
+ * 
+ */
 
 public class MyDrawing extends JPanel {
 	private Cat cat;
